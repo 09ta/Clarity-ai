@@ -1,0 +1,6 @@
+{
+  "name": "ClarityAI",
+  "description": "A personal financial decision companion for young Indian salaried professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
